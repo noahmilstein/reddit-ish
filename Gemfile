@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'listen'
 gem 'devise'
 gem 'rb-readline'
+gem 'bootstrap-sass', '~> 3.3.6'
 group :development, :test do
   gem 'capybara'
   gem 'factory_girl_rails'
